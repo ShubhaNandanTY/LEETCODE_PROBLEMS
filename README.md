@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 ## String
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ShubhaNandanTY/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
